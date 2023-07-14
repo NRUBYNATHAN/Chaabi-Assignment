@@ -1,0 +1,50 @@
+.dash_logo{
+    width: 250px;
+    height:110px;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   border-bottom: 1px solid #E7EFFF;
+}
+.logo_img{
+    width: 204px;
+    height:57px;
+}
+.left_dash{
+    width: 250px;
+    height: auto;
+
+}
+.dash_btns{
+    margin-left: 35px;
+    margin-top: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content:center;
+   align-items: flex-start;
+
+}
+.dash_icon{
+    
+    width: 27px;
+    height: 27px;
+ 
+}
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+
+.btns1{
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+    gap:20px;
+    background-color:#0D62FF;
+    color: antiquewhite;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 5px;
+}

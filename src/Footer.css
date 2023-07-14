@@ -1,0 +1,64 @@
+.Footer{
+  
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container1_head{
+    margin: 0;
+}
+.container_img{
+    display: flex;
+    
+    align-items: center;
+    gap: 5px;
+}
+.container_head1{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.Container1{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    background-color: white;
+    width: 300px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px rgba(24, 120, 242, 0.25);
+}
+.detail{
+    font-size: 15px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.Pie{
+  padding-top: 10px;
+  padding-left: 20px;
+    background-color: white;
+    width: 390px;
+    height: 270px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px rgba(24, 120, 242, 0.25);
+}
+.piename{
+    margin: 0;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Container3{
+    padding-top: 10px;
+    padding-left: 20px;
+    background-color: white;
+    width: 390px;
+    height: 270px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px rgba(24, 120, 242, 0.25);
+}
+.heading{
+    margin: 0;
+}
